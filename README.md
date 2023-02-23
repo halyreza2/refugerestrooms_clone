@@ -20,7 +20,7 @@ REFUGE is an effort to fill the void left by the now-defunct Safe2Pee website. I
 
 This project is open source. Feel free to contribute. We could use the help.
 
-## Deployed Environments
+## Deployed Environments!
 Production: [Link](http://www.refugerestrooms.org)
 
 Staging: [Link](http://staging.refugerestrooms.org)
